@@ -1,24 +1,21 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="70%"/>
 
----
+  ---
   
   🧱 HKPolyU CS Student
   
   ✉️ : `jacky06211@gmail.com`
-  <br>
+
+  ---
 
 </div>
 
+### [<img src="https://cdn-icons-png.flaticon.com/512/8293/8293584.png" width="18px" align="bottom"/> My Screen Translator for Mac](http://github.com/JackyCCK2126/Melon-Translate)
 
-
----
-
-- ### 📑 [My Screen Translator for Mac](http://github.com/JackyCCK2126/Melon-Translate)
-
-- ### 📦 [Temporary Storage](http://github.com/JackyCCK2126/Public_TMP)
+### [📦 Temporary Storage](http://github.com/JackyCCK2126/Public_TMP)
 
 
 
