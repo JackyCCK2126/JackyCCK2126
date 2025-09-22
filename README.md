@@ -13,10 +13,10 @@
 
 <div align="center"> <br> <a href="https://google.com"> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
 
-### <pre> [<img src="https://cdn-icons-png.flaticon.com/512/8293/8293584.png" width="18px" align="bottom"/> My Screen Translator for Mac](http://github.com/JackyCCK2126/Melon-Translate)
+### <pre> [    <img src="https://cdn-icons-png.flaticon.com/512/8293/8293584.png" width="18px" align="bottom"/> My Screen Translator for Mac](http://github.com/JackyCCK2126/Melon-Translate)
 </pre>
 
-### <pre> [📦 Temporary Storage](http://github.com/JackyCCK2126/Public_TMP)
+### <pre> [    📦 Temporary Storage](http://github.com/JackyCCK2126/Public_TMP)
 </pre>
 
 
