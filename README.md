@@ -1,6 +1,6 @@
-<div align="center">  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="90%" align="center"/> </div>
+<div align="center"> <a href="https://google.com"> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="90%" align="center"/> </a> </div>
   
-<div align="center"> <br> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </div> <br>
+<div align="center"> <br> <a href="https://watermelon-is-yummy.netlify.app/black"> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-<div align="center"> <br> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </div> <br>
+<div align="center"> <br> <a href="https://google.com"> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
 
 ### <pre> [<img src="https://cdn-icons-png.flaticon.com/512/8293/8293584.png" width="18px" align="bottom"/> My Screen Translator for Mac](http://github.com/JackyCCK2126/Melon-Translate)
 </pre>
