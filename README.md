@@ -1,4 +1,4 @@
-<div align="center"> <a> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="90%" align="center"/> </a> </div>
+<div align="center"> <a href=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!" width="90%" align="center"/> </a> </div>
   
 <div align="center"> <br> <a href="https://watermelon-is-yummy.netlify.app/black"> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
 
