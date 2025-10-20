@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  🧱 HKPolyU CS Student
+  🧱 PolyU CS Student
 
   ✉️ : `jacky06211@gmail.com`
 
