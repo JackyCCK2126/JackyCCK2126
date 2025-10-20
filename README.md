@@ -7,7 +7,7 @@
 
   🧱 PolyU CS Student
 
-  ✉️ : `jacky06211@gmail.com`
+  ✉️ <code>jacky06211@gmail.com</code>
 
 </div>
 
