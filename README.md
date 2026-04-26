@@ -20,8 +20,9 @@
 </pre>
 
 
-<div align="right"><sub><sub><sub>
-watermelon avocado jupyter 09 06 211 209 302
+<div align="right" style="line-height: 0;"><sub><sub><sub>
+  watermelon-avocado-jupyter
+  chan chi kit jacky polyu ihmc
 </sub></sub></sub></div>
 
 <!--
