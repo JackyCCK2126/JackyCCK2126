@@ -20,7 +20,7 @@
 </pre>
 
 
-<div align="right" style="line-height: 0;"><sub><sub><sub>
+<div align="right"><sub><sub><sub>
   watermelon-avocado-jupyter
   chan chi kit jacky polyu ihmc
 </sub></sub></sub></div>
