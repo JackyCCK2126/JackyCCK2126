@@ -1,11 +1,11 @@
 <div align="center"> <a href=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=85&duration=3000&pause=2000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+There!;Goodbye;" width="90%" align="center"/> </a> </div>
   
-<div align="center"> <br> <a href="https://watermelon-is-yummy.netlify.app/black"> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
+<div align="center"> <br> <a href=""> <img src="https://www.fg-a.com/lines/2021-calligraphic-horizontal-divider-purple-transparent.png" align="center" /> </a> </div> <br>
 
 
 <div align="center">
 
-  🧱 PolyU CS Student
+  PolyU CS
 
   ✉️ <code>jacky06211@gmail.com</code>
 
